@@ -31,6 +31,19 @@ date_format = "Jan 2006"
   * Modelling
   * Deploying
   """
+[[experience]] 
+title = "Owner" 
+company = "Salas Consulting" 
+company_url = "" 
+location = "Florida" 
+date_start = "2007-01-01" 
+date_end = "" 
+description = """ 
+Responsibilities include:
+
+* Project Management
+* Social Science Research
+* Database Mining """ 
 
 [[experience]]
   title = "Professor"
